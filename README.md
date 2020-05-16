@@ -8,3 +8,8 @@ To run a project then follow below procedure
 * step 4: Open the file "**Art_Generation_projectrl.ipynp**".
 * step 5: After opening copy the code and paste code in file name "**Art_Generation**" in your google drive folder "**Data Mining Project**".
 * step-6 :After doing all above steps.Then, Run code in "**Art_Generation**" google colab sheet in your drive.
+
+
+ sometime if there problem in opening a file **Art_Generation_projectrl.ipynp** then open using below link
+ * https://nbviewer.jupyter.org/github/krishan2319/projectsML/blob/master/Art_Generation_projectrl.ipynb
+ 
